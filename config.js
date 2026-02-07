@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Josha",
+    valentineName: "Joshaa",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "BIEEEN, TE AMO MI VIDAA 🎉💝💖💝💓",
         message: "BESOTESSSS!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "💕💕💕💕💕💕💕💕"  // These will bounce around
     },
 
     // Color scheme for the website
